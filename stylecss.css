@@ -1,0 +1,31 @@
+.bdy{
+    background-color: #f7f4bc;
+    width: 50%;
+    height: 6in;
+    text-align: center;
+    margin-left: 3.5in;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.hh{
+    font-weight: lighter;
+}
+
+.ima{
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-bottom: 70px;
+    float: left;
+    border-radius: 6px;
+}
+
+body{
+    background-color: beige;
+}
+
+.txt{
+    text-align: justify;
+    margin-right: 20px;
+}
